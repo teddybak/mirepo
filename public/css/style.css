@@ -1,0 +1,90 @@
+.listingsfocused {
+    font-family: "Segoe UI Semibold", "Segoe WP Semibold", "Segoe WP", "Segoe UI", Arial, Sans-Serif;
+    font-size: 2rem;
+    line-height: 1.3;
+    background: #F60;
+    color: #fff;
+    display: block;
+    text-align: center;
+    padding: .8rem;
+    width: auto;
+}
+
+a:hover, a:focus {
+    color: #23527c;
+    text-decoration: none;
+}
+
+.panel{
+    background-color: whitesmoke;
+}
+
+#main-panel{
+    background-color: white;
+}
+
+.btnx {
+     display: inline-block;
+     margin-bottom: 0px;
+     font-family: "futura-pt",sans-serif;
+     font-style: normal;
+     font-weight: 700;
+     text-align: center;
+     text-transform: uppercase;
+     vertical-align: middle;
+     cursor: pointer;
+     background-image: none;
+     background-color: #F60;
+     border-width: 1px 1px 2px;
+     border-style: solid;
+     border-color: transparent transparent #E14C00;
+     -moz-border-top-colors: none;
+     -moz-border-right-colors: none;
+     -moz-border-bottom-colors: none;
+     -moz-border-left-colors: none;
+     border-image: none;
+     white-space: nowrap;
+     padding: 16px 35px;
+     color: #FFF;
+     -moz-user-select: none;
+     transition: background-color 1s ease-in-out 0s;
+    width: 100%;
+ }
+
+.home-services-pods .btn {
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    font-size: 15px;
+    text-align: left;
+    padding: 16px 7px;
+    font-weight: 700;
+    text-rendering: auto;
+    transform: translate(0px, 0px);
+}
+
+.navbar{
+    background-color: #F60;
+}
+
+.nav > li > a{
+    color:white;
+}
+
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand{
+    color:white;
+}
+
+.nav > li > a:hover, .nav > li > a:focus{
+    text-decoration: none;
+    background-color: #001a35;
+}
+
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+    background-color: #001f3f;
+}
+
+.clean{
+color:white;
+}
